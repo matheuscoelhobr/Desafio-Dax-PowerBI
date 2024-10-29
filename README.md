@@ -1,6 +1,4 @@
-# Modelando um Dashboard de E-commerce com Power BI Utilizando Fórmulas DAX - NTT DATA
-
-## Descrição do Desafio
+# Modelando um Dashboard de E-commerce com Power BI Utilizando Fórmulas DAX 
 
 O objetivo destina-se a utilizar uma tabela única de **Amostra Financeira** para criar um modelo baseado em **esquema estrela**, que incluem tabelas de dimensão e fato. O processo envolve uma criação de novas tabelas a partir da tabela original, selecionando colunas específicas para compor uma visão das novas tabelas. Assim, uma tabela principal (fato) será utilizada para gerar como tabelas de dimensão.
 
